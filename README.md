@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @qnicoud
-- 👀 I’m interested in TTRPG, Music, Drawing and IT 
+- 👀 I’m interested in Music, Drawing, TTRPG and IT 
 - 🌱 I’m currently learning DevOps practices and tools
 
 I am working for Capgemini in France as a Cloud DevOps Engineer.
